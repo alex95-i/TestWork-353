@@ -1,0 +1,10 @@
+.woo_custom_form_create_wrap{
+display:flex;
+flex-direction:column;
+text-align: center;
+border:1px solid black;
+padding: 20px;
+}
+.woo_custom_form_create_item{
+padding: 5px;
+}
